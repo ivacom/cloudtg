@@ -8,7 +8,7 @@
 - Clone the repository
 ```
 cd ~
-git clone https://github.com/SlavikMIPT/tgcloud.git
+git clone https://github.com/ivacom/cloudtg.git
 ```
 - Install requirements for Python3.6
 
@@ -52,8 +52,5 @@ For tests, it is better to use a separate telegram profile.
 
 If banned - mail `recover@telegram.org`
 
-You can try to use web based [filebrowser](https://github.com/filebrowser/filebrowser) or SFTP
+You can try to use web based [filebrowser](https://github.com/ivacom/browserfile) or SFTP
 
-You are welcome to collaborate - contact 
-Telegram: [@SlavikMIPT](t.me/SlavikMIPT)
-Channel: [@MediaTube_stream](t.me/MediaTube_stream)
